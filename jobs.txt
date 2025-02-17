@@ -1,6 +1,7 @@
 Obstetrics_Gynaecology-v6656117
 -v6670197
 Familycare-v6750835
+Clinical_Support_Worker_Emergency_Acute-v6752245
 Blood_Sciences-v6758654
 Learning_Development-v6780187
 Emergency_Care-v6792625
@@ -47,4 +48,3 @@ Community_Nursing-v6929360
 IT_Service_Desk-v6929912
 Microbiology-v6930150
 Emergency_Medicine-v6930413
-Childcare_Education-v6931317
