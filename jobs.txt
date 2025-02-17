@@ -6,6 +6,7 @@ Medical_Physics-v6847896
 Clinical_Governance-v6850101
 Digestive_Diseases_Urology_General_Surgery_Services-v6862128
 Physiotherapy-v6863005
+Medical_Equipment_Management-v6874166
 OMFS-v6877896
 Neurology-v6884296
 Quality_Improvement-v6885622
@@ -16,6 +17,7 @@ Contracts-v6904841
 CT_Radiographer-v6912367
 General_Theatres-v6914902
 Epilepsy_Nurse-v6918872
+Administrative_Services-v6921067
 Community_Occupational_Therapy-v6921377
 Breast_Surgery-v6924483
 Community_Nursing-v6929360
@@ -45,6 +47,4 @@ Research_Innovation_RI_Clinical_Trials-v6952312
 Estates_Facilities-v6953771
 Physiotherapy-v6953813
 Respiratory-v6955783
-Acute_Respiratory_care_unit-v6958386
-Speech_Language_Therapist-v6959669
-Histopathology-v6963537
+Nursing-v6956264
