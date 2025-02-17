@@ -1,5 +1,6 @@
 -v6670197
 Familycare-v6750835
+Blood_Sciences-v6758654
 Pharmacy-v6805947
 Medical_Physics-v6847896
 Clinical_Governance-v6850101
@@ -12,11 +13,14 @@ Clinical_Trials_Pharmacy-v6885864
 IT_Technician-v6901467
 Gastroenterology-v6904616
 Contracts-v6904841
+CT_Radiographer-v6912367
 General_Theatres-v6914902
 Epilepsy_Nurse-v6918872
 Community_Occupational_Therapy-v6921377
+Breast_Surgery-v6924483
 Community_Nursing-v6929360
 IT_Service_Desk-v6929912
+Microbiology-v6930150
 Outpatients-v6932366
 Laboratory_Medicine-v6932726
 Band_Clinical_Leader_kendal-v6933801
@@ -44,7 +48,3 @@ Respiratory-v6955783
 Acute_Respiratory_care_unit-v6958386
 Speech_Language_Therapist-v6959669
 Histopathology-v6963537
-Nursing-v6964979
-Microbiology-v6967005
-Anaesthesia_Operating_Services-v6968319
-Urology-v6968407
