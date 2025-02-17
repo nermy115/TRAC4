@@ -27,6 +27,8 @@ Clinical_Trials_Pharmacy-v6885864
 Nursing-v6890468
 Medicine_Long_Term_Conditions-v6899505
 IT_Technician-v6901467
+cardiac_Anaesthesia-v6901701
+Brain_Injury_SLT-v6902169
 Gastroenterology-v6904616
 Contracts-v6904841
 Orthopaedics-v6905596
@@ -46,5 +48,3 @@ Psychology_Psychological_Therapies-v6923284
 Breast_Surgery-v6924483
 Diabetes_Endocrinology_Nephrology-v6925264
 Paediatrics-v6926298
-Surgery-v6926702
-Infectious_Diseases-v6927207
