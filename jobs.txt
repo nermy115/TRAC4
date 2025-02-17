@@ -10,11 +10,13 @@ IT_Technician-v6901467
 General_Theatres-v6914902
 Epilepsy_Nurse-v6918872
 Community_Occupational_Therapy-v6921377
+Community_Nursing-v6929360
 IT_Service_Desk-v6929912
 Outpatients-v6932366
 Laboratory_Medicine-v6932726
 Band_Clinical_Leader_kendal-v6933801
 Anaesthetics-v6937670
+Community_Nursing-v6937877
 Neonatal_Nursing-v6938699
 ODP_Recovery-v6941386
 Community_Services-v6943119
@@ -34,6 +36,7 @@ Speech_Language_Therapist-v6959669
 Histopathology-v6963537
 Nursing-v6964979
 Anaesthesia_Operating_Services-v6968319
+Opthalmology-v6970822
 ClinicalConselling_Psychologist-v6971330
 Podiatry-v6972121
 Estates-v6973410
@@ -45,6 +48,3 @@ Admin-v6986479
 Outpatients-v6987202
 Receptionist-v6987838
 Clinical_Exercise_Physiology-v6987854
-Mental_health_nurse-v6988445
-Occupational_Therapy_Assistant-v6990138
-Health_Inclusion_Highly_Specialist_Services-v6990703
