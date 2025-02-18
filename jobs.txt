@@ -45,6 +45,6 @@ Nursing_Midwifery-v6904274
 Procurement-v6904451
 Paediatrics-v6905592
 Performance-v6908885
+Strategic_Estates_Programme_Planning-v6909596
 Child_Adolescent_Mental_Health-v6910698
 Oncology-v6911557
-Ophthalmology-v6913730
