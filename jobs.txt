@@ -44,7 +44,7 @@ Administration-v6914817
 Information_Department-v6916902
 Medicines_Management_Pharmacy-v6917313
 Dermatology-v6918069
+Human_Resources-v6921453
 Audiology-v6921457
 Clinical_Coding-v6922108
 Oncology-v6923926
-Medical_Surgical-v6924187
