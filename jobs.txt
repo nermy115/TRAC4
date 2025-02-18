@@ -1,11 +1,13 @@
 Pharmacy-v6092970
 Mental_Health-v6774569
+Adult_Community_Services-v6785367
 Adult_Community_Services-v6800565
 neuromuscular-v6817995
 Medical_Engineering-v6857931
 Maternity-v6862921
 Speech_Language_Therapy-v6880697
 Renal_Services-v6881690
+Consultant_Radiographer-v6882841
 Paediatrics_RFH-v6883256
 Physiotherapist-v6884676
 HN_Histology-v6889697
@@ -27,10 +29,12 @@ Estates-v6945268
 Fabrics-v6945282
 Pharmacy-v6946818
 Neurology-v6948913
+Nurse-v6954045
 Nursing-v6955663
 Counter_Fraud-v6955982
 Day_Surgery-v6956415
 Gynaecology-v6957296
+Mental_Health_Learning_Disabilities-v6958927
 Ophthalmology-v6961344
 Administration-v6963574
 Sexual_Health_Services-v6963957
@@ -44,7 +48,3 @@ Data_Acquisition-v6968712
 Elective_Care_Weeks_DQ_Assistant-v6969155
 Podiatry-v6970257
 Nursing-v6970411
-Paediatrics-v6970609
-Specialist_Clinician_Psychologist-v6970719
-Nursing-v6970766
-Informatics-v6972643
