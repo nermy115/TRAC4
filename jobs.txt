@@ -11,6 +11,7 @@ Adult_Community_Services-v6785367
 Nursing-v6788307
 Adult_Community_Services-v6800565
 Waste_Porter-v6806667
+Pharmacy-v6809231
 MSK_Radiology-v6815555
 Medical_Secretary-v6815809
 Maintenance_Assistant-v6816296
@@ -47,4 +48,3 @@ Neurology-v6902411
 Nursing_Midwifery-v6904274
 Procurement-v6904451
 Paediatrics-v6905592
-Performance-v6908885
