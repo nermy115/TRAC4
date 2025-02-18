@@ -14,6 +14,7 @@ Waste_Porter-v6806667
 MSK_Radiology-v6815555
 Medical_Secretary-v6815809
 Maintenance_Assistant-v6816296
+Trauma-v6817021
 neuromuscular-v6817995
 Physiotherapist-v6819972
 Portering-v6824885
@@ -21,6 +22,7 @@ Paediatrics-v6845560
 Research-v6847313
 Medical_Engineering-v6857931
 Maternity-v6862921
+Administrative_Services-v6866150
 Radiographer-v6866792
 Catering-v6867841
 Elderly_Medicine-v6870919
@@ -46,5 +48,3 @@ Nursing_Midwifery-v6904274
 Procurement-v6904451
 Paediatrics-v6905592
 Performance-v6908885
-Strategic_Estates_Programme_Planning-v6909596
-Child_Adolescent_Mental_Health-v6910698
