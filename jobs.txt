@@ -13,6 +13,7 @@ Resuscitation_service-v6937430
 Estates-v6945268
 Neurology-v6948913
 Gynaecology-v6957296
+Ophthalmology-v6961344
 Administration-v6963574
 Clinical_Photography-v6964068
 Patient_Access_Cancer_Services-v6966758
@@ -32,12 +33,14 @@ Sexual_Health-v6977436
 Pathology_education_Cytology_screening-v6978282
 Community_Services-v6978685
 Medicine-v6979782
+Nursing-v6982692
 Neuropsychiatry_Outpatients-v6984621
 Diabetes_Specialist_Nursing-v6988037
 Family_Therapy-v6988268
 Urgent_care-v6988346
 Bracknell_Renal-v6993461
 Occupational_Therapy-v6995486
+Nurseparamedic_senior_urgent_care_practitioner-v6996754
 Psychological_therapies-v6997948
 Cardiology-v6998363
 Neonatal_Staff_Nurse-v6998660
@@ -45,6 +48,3 @@ Ward_Manager-v7000055
 Interventional_Radiology-v7000311
 Specimen_Reception-v7000847
 Community_Mental_Health-v7001237
-Physical_Therapies_Health_Instructor-v7001365
-Community_Practitioner_Addictions-v7001905
-Clinical_Psychology_Neuropsychology-v7004121
