@@ -12,8 +12,10 @@ Child_Adolescent_Mental_Health-v6910698
 Medical_Surgical-v6924187
 Pharmacy-v6926129
 Adult_community_services-v6926217
+Volunteer_Work_Placement_Coordinator-v6933401
 marketing_communications-v6933700
 Resuscitation_service-v6937430
+IAPT_Talking_Therapies_Anxiety_Depression-v6940591
 Bone_Marrow_Transplantation-v6944615
 Estates-v6945268
 Neurology-v6948913
@@ -35,7 +37,7 @@ Informatics-v6972643
 Endocrinology_Diabetes-v6973237
 Ward-v6974940
 Outpatient_Appointments-v6975953
-Outpatient-v6976626
+Paediatrics-v6976232
 Peer_Support_Lived_Experience_Professionals-v6977076
 Sexual_Health-v6977436
 Pathology_education_Cytology_screening-v6978282
@@ -46,5 +48,3 @@ Nursing-v6982692
 Oncology-v6983550
 Gender_Health-v6984466
 Neuropsychiatry_Outpatients-v6984621
-Pharmacy_Stores-v6985963
-Diabetes_Specialist_Nursing-v6988037
